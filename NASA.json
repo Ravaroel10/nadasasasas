@@ -2446,6 +2446,94 @@
         "name": "Hall nwXse44.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "cashier.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cashier.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Debu 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Debu 1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Debu 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Debu 2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Debu 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Debu 3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Hall nwXse45.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Hall nwXse45.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Hall nwXse46.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Hall nwXse46.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Hall nwXse47.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Hall nwXse47.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Hall nwXse 8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Hall nwXse 8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "../../Downloads/Revisi/Hall nwXse 12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\Downloads\\Revisi\\Hall nwXse 12.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Hall nwXse 13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Hall nwXse 13.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Hall nwXse 14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Hall nwXse 14.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -3018,7 +3106,7 @@
     {
       "name": "Cycle6",
       "type": "boolean",
-      "value": true
+      "value": false
     },
     {
       "name": "Cycle7",
@@ -3212,7 +3300,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.12923316831345602,
+        "zoomFactor": 0.1988903629758995,
         "windowMask": false
       },
       "objectsGroups": [
@@ -4521,8 +4609,8 @@
           "name": "wall_only",
           "persistentUuid": "5be8c812-c514-4daf-8309-4be9cf10359b",
           "width": 287,
-          "x": 816,
-          "y": -200,
+          "x": 819,
+          "y": -208,
           "zOrder": 2,
           "numberProperties": [
             {
@@ -4543,8 +4631,8 @@
           "name": "wall_only",
           "persistentUuid": "2324d4f2-c235-4dc0-864a-d8a7fb4cf29a",
           "width": 175,
-          "x": 1065,
-          "y": -108,
+          "x": 1070,
+          "y": -118,
           "zOrder": 2,
           "numberProperties": [
             {
@@ -4567,7 +4655,7 @@
           "width": 175,
           "x": 1203,
           "y": -21,
-          "zOrder": 2,
+          "zOrder": 0,
           "numberProperties": [
             {
               "name": "animation",
@@ -19603,8 +19691,8 @@
           "name": "wall_only",
           "persistentUuid": "ff176125-5348-4354-a12f-e6916e608420",
           "width": 320,
-          "x": 1229,
-          "y": -16,
+          "x": 1214,
+          "y": -26,
           "zOrder": 2,
           "numberProperties": [
             {
@@ -21268,6 +21356,23 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 418,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite7",
+          "persistentUuid": "cd9a6db9-6409-433c-93ec-228ea23bd277",
+          "width": 418,
+          "x": -587,
+          "y": -833,
+          "zOrder": 119,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -21808,7 +21913,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Asset Nasa Leo\\V Wall Tikungan.png",
+                      "image": "Hall nwXse45.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -21828,16 +21933,16 @@
                             "y": 0
                           },
                           {
-                            "x": 1350,
+                            "x": 1215,
                             "y": 0
                           },
                           {
-                            "x": 1350,
-                            "y": 1020
+                            "x": 1215,
+                            "y": 918
                           },
                           {
                             "x": 0,
-                            "y": 1020
+                            "y": 918
                           }
                         ]
                       ]
@@ -21856,7 +21961,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Asset Nasa Leo\\^ Wall Tikungan.png",
+                      "image": "Hall nwXse46.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -21876,16 +21981,16 @@
                             "y": 0
                           },
                           {
-                            "x": 1350,
+                            "x": 1215,
                             "y": 0
                           },
                           {
-                            "x": 1350,
-                            "y": 1020
+                            "x": 1215,
+                            "y": 918
                           },
                           {
                             "x": 0,
-                            "y": 1020
+                            "y": 918
                           }
                         ]
                       ]
@@ -21904,7 +22009,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Asset Nasa Leo\\L Wall.png",
+                      "image": "Hall nwXse47.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -21924,16 +22029,16 @@
                             "y": 0
                           },
                           {
-                            "x": 1350,
+                            "x": 1215,
                             "y": 0
                           },
                           {
-                            "x": 1350,
-                            "y": 1020
+                            "x": 1215,
+                            "y": 918
                           },
                           {
                             "x": 0,
-                            "y": 1020
+                            "y": 918
                           }
                         ]
                       ]
@@ -21952,7 +22057,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Asset Nasa Leo\\J Wall.png",
+                      "image": "Hall nwXse 8.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -21972,16 +22077,16 @@
                             "y": 0
                           },
                           {
-                            "x": 1350,
+                            "x": 1215,
                             "y": 0
                           },
                           {
-                            "x": 1350,
-                            "y": 1020
+                            "x": 1215,
+                            "y": 918
                           },
                           {
                             "x": 0,
-                            "y": 1020
+                            "y": 918
                           }
                         ]
                       ]
@@ -22000,7 +22105,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Asset Nasa Leo\\Jendela J.png",
+                      "image": "Hall nwXse 13.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -22020,16 +22125,16 @@
                             "y": 0
                           },
                           {
-                            "x": 1350,
+                            "x": 1215,
                             "y": 0
                           },
                           {
-                            "x": 1350,
-                            "y": 1020
+                            "x": 1215,
+                            "y": 918
                           },
                           {
                             "x": 0,
-                            "y": 1020
+                            "y": 918
                           }
                         ]
                       ]
@@ -22048,7 +22153,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Asset Nasa Leo\\Jendela L.png",
+                      "image": "Hall nwXse 14.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -22068,16 +22173,16 @@
                             "y": 0
                           },
                           {
-                            "x": 1350,
+                            "x": 1215,
                             "y": 0
                           },
                           {
-                            "x": 1350,
-                            "y": 1020
+                            "x": 1215,
+                            "y": 918
                           },
                           {
                             "x": 0,
-                            "y": 1020
+                            "y": 918
                           }
                         ]
                       ]
@@ -30768,6 +30873,66 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite7",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "cashier.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 29,
+                            "y": 213
+                          },
+                          {
+                            "x": 991,
+                            "y": 213
+                          },
+                          {
+                            "x": 991,
+                            "y": 833
+                          },
+                          {
+                            "x": 29,
+                            "y": 833
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -31072,6 +31237,9 @@
           },
           {
             "objectName": "NewSprite6"
+          },
+          {
+            "objectName": "NewSprite7"
           }
         ]
       },
@@ -36974,6 +37142,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "folded": true,
               "name": "m2",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -37628,215 +37797,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
-          "name": "Cycle 2",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BooleanVariable"
-                  },
-                  "parameters": [
-                    "Cycle2",
-                    "True",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "BBText::SetBBText"
-                  },
-                  "parameters": [
-                    "mission_1",
-                    "=",
-                    "\"Fix the WRS (Water Recovery System)\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BBText::SetBBText"
-                  },
-                  "parameters": [
-                    "mission_2",
-                    "=",
-                    "\"Fix the THC (Temperature and Humidity Control)\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BBText::SetBBText"
-                  },
-                  "parameters": [
-                    "mission_3",
-                    "=",
-                    "\"Fix the electrical system\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BBText::SetBBText"
-                  },
-                  "parameters": [
-                    "mission_4",
-                    "=",
-                    "\"Fix the WRS (Water Recovery System)\""
-                  ]
-                }
-              ],
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "C2M1",
-                        "True",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Montre"
-                      },
-                      "parameters": [
-                        "Check_button",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Cache"
-                      },
-                      "parameters": [
-                        "go"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "C2M2",
-                        "True",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Montre"
-                      },
-                      "parameters": [
-                        "Check_button2",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Cache"
-                      },
-                      "parameters": [
-                        "go2"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "C2M3",
-                        "True",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Montre"
-                      },
-                      "parameters": [
-                        "Check_button3",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Cache"
-                      },
-                      "parameters": [
-                        "go3"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "C2M4",
-                        "True",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Montre"
-                      },
-                      "parameters": [
-                        "Check_button4",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Cache"
-                      },
-                      "parameters": [
-                        "go4"
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "parameters": []
-        },
-        {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "folded": true,
           "name": "Cycle 3",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -37873,7 +37833,7 @@
                   "parameters": [
                     "mission_2",
                     "=",
-                    "\"Fix the THC (Temperature and Humidity Control)\""
+                    "\"No mission\""
                   ]
                 },
                 {
@@ -37883,7 +37843,7 @@
                   "parameters": [
                     "mission_3",
                     "=",
-                    "\"Fix the electrical system\""
+                    "\"No mission\""
                   ]
                 },
                 {
@@ -37893,7 +37853,17 @@
                   "parameters": [
                     "mission_4",
                     "=",
-                    "\"Fix the WRS (Water Recovery System)\""
+                    "\"No mission\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "C3M2",
+                    "True",
+                    ""
                   ]
                 }
               ],
@@ -65392,6 +65362,45 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 128,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Debu",
+          "persistentUuid": "acdb023e-e247-434c-a737-40706fc6cee9",
+          "width": 166,
+          "x": 480,
+          "y": 111,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 190,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Debu",
+          "persistentUuid": "0db0f6d2-592b-4589-b1b0-d75b2ccee216",
+          "width": 238,
+          "x": 701,
+          "y": 127,
+          "zOrder": 6,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -65718,6 +65727,162 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Debu",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Debu 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1590,
+                            "y": 0
+                          },
+                          {
+                            "x": 1590,
+                            "y": 1230
+                          },
+                          {
+                            "x": 0,
+                            "y": 1230
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Debu 2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1590,
+                            "y": 0
+                          },
+                          {
+                            "x": 1590,
+                            "y": 1230
+                          },
+                          {
+                            "x": 0,
+                            "y": 1230
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Debu 3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1590,
+                            "y": 0
+                          },
+                          {
+                            "x": 1590,
+                            "y": 1230
+                          },
+                          {
+                            "x": 0,
+                            "y": 1230
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -65737,6 +65902,9 @@
           },
           {
             "objectName": "sealant_patch"
+          },
+          {
+            "objectName": "Debu"
           }
         ]
       },

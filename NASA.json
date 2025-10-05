@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 236,
+    "build": 242,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -605,6 +605,470 @@
         "name": "frame_3_delay-0.1s2.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "dialogue_box.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "dialogue_box.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "name_box.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "name_box.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "orion jumbo (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "orion jumbo (2).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "dialogue_box2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "dialogue_box2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "name_box2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "name_box2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "orion jumbo (2)2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "orion jumbo (2)2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "disablePreload": false,
+        "file": "assets/New dialogue tree.json",
+        "kind": "json",
+        "metadata": "{\"extension\":\".json\",\"localFilePath\":\"assets/New dialogue tree.json\"}",
+        "name": "New dialogue tree",
+        "userAdded": false
+      },
+      {
+        "disablePreload": false,
+        "file": "assets/New dialogue tree2.json",
+        "kind": "json",
+        "metadata": "{\"extension\":\".json\",\"localFilePath\":\"assets/New dialogue tree2.json\"}",
+        "name": "New dialogue tree2",
+        "userAdded": false
+      },
+      {
+        "disablePreload": false,
+        "file": "assets/New dialogue tree3.json",
+        "kind": "json",
+        "metadata": "{\"extension\":\".json\"}",
+        "name": "New dialogue tree3",
+        "userAdded": false
+      },
+      {
+        "file": "characterbox.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "characterbox.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "characterbox (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "characterbox (2).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Spacecraft Over Earth_ Retro Pixel Art.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spacecraft Over Earth_ Retro Pixel Art.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "zeta (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "zeta (2).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "orion mini (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "orion mini (2).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "mesin.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "mesin.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "dialogue_box3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "dialogue_box3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "tv kosong.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tv kosong.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "orion jumbo (2)3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "orion jumbo (2)3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Screenshot 2025-10-05 073201.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Screenshot 2025-10-05 073201.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/9patch_Bordered Hud Grey_all_32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Bordered Hud Grey_all_32.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Hud/b6451298a85b275ad943340bd1394f488fa5e07a4fe1f69dd1ebc11220647437_9patch_Bordered Hud Grey_all_32.png",
+          "name": "9patch_Bordered Hud Grey_all_32.png"
+        }
+      },
+      {
+        "file": "assets/Silkscreen-Bold.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "ecf7f6cb89e16c44e3b5a9c8abb703ba6cbc52eb8529353125f4f5caed404144_Silkscreen-Bold.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/ecf7f6cb89e16c44e3b5a9c8abb703ba6cbc52eb8529353125f4f5caed404144_Silkscreen-Bold.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "Stay Package.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Stay Package.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Stay Package (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Stay Package (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "dashboard kosong.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "dashboard kosong.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Debris_Large.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Debris_Large.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Particle/e90741136c62f02a8c9e3b96736bcb9516128b8705ce4466339d4a1742b7abb7_Debris_Large.png",
+          "name": "Debris_Large.png"
+        }
+      },
+      {
+        "file": "assets/Debris_Medium.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Debris_Medium.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Particle/c32c1765808f22fa2dc2edae93bc9147c2cc72fa8431a7e0055f816e48016577_Debris_Medium.png",
+          "name": "Debris_Medium.png"
+        }
+      },
+      {
+        "file": "assets/Debris_Small.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Debris_Small.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Particle/68356a56205222a9b05b8f1d2589c25f1e0bdd799e057dfc9cac20e5f4cd11f2_Debris_Small.png",
+          "name": "Debris_Small.png"
+        }
+      },
+      {
+        "file": "Untitled design.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled design.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "tv kosong2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tv kosong2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "WhatsApp Video 2025-10-04 at 19.33.51.mp4",
+        "kind": "video",
+        "metadata": "",
+        "name": "WhatsApp Video 2025-10-04 at 19.33.51.mp4",
+        "userAdded": false
+      },
+      {
+        "file": "WhatsApp Image 2025-10-05 at 13.20.46.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "WhatsApp Image 2025-10-05 at 13.20.46.jpeg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Untitled design (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled design (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Untitled design (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled design (2).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Untitled design (3).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled design (3).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "WhatsApp Image 2025-10-05 at 15.28.53.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "WhatsApp Image 2025-10-05 at 15.28.53.jpeg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Untitled design (3)2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled design (3)2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "promotion (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "promotion (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "rafael jumbo (3).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "rafael jumbo (3).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "2 (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "2 (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "capulo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "capulo.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "capulo2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "capulo2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Untitled design (4).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled design (4).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "kinara mini (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "kinara mini (2).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Spacecraft Over Earth_ Retro Pixel Art2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spacecraft Over Earth_ Retro Pixel Art2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "elva rafael vr (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "elva rafael vr (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "raihan mini eyeglasses.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "raihan mini eyeglasses.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "leah mini (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "leah mini (2).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "naila mini (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "naila mini (2).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "rafael mini (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "rafael mini (2).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Desain tanpa judul (17) (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Desain tanpa judul (17) (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "rafael jumbo (3)2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "rafael jumbo (3)2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Untitled design (4)2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled design (4)2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "2 (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "2 (2).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Kenney Mini.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "5e2e3fcc57885d5e510934e621be5f8dd7a5b6425cf46ef38073e3d2c3b04048_Kenney Mini.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Font Pack/5e2e3fcc57885d5e510934e621be5f8dd7a5b6425cf46ef38073e3d2c3b04048_Kenney Mini.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Poppins-Medium.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "b81b0bcafdd4279f3bf8d4d3865f51b9961292dad8b5ccbe88807c8acfb6b11d_Poppins-Medium.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/b81b0bcafdd4279f3bf8d4d3865f51b9961292dad8b5ccbe88807c8acfb6b11d_Poppins-Medium.ttf",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
@@ -667,7 +1131,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5033839366309986,
+        "zoomFactor": 0.1250175357423828,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -787,7 +1251,7 @@
           "name": "flooronly",
           "persistentUuid": "4deb445a-1b14-47ff-873a-17d7e8a4825e",
           "width": 0,
-          "x": -3667,
+          "x": -3677,
           "y": 2697,
           "zOrder": 11,
           "numberProperties": [
@@ -6686,6 +7150,11 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
@@ -6866,6 +7335,16 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ],
       "layers": [
@@ -6977,17 +7456,3180 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3645833333333333,
+        "zoomFactor": 0.1816906597848678,
         "windowMask": false
       },
       "objectsGroups": [],
       "variables": [],
-      "instances": [],
-      "objects": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "transtion_1",
+          "persistentUuid": "8c6c4692-9644-473b-8222-8357ad0166f1",
+          "width": 0,
+          "x": 1683,
+          "y": -145,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 287,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "dialoguebox",
+          "persistentUuid": "19830c80-8dff-4506-9372-cf4c319dd851",
+          "width": 1601,
+          "x": 88,
+          "y": 767,
+          "zOrder": -2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 105,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "namebox",
+          "persistentUuid": "0260f6ac-0d6b-4078-b973-cd4ff6f2eaa6",
+          "width": 425,
+          "x": 94,
+          "y": 630,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 247,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "Dialoguetext",
+          "persistentUuid": "4abcef7e-5fc2-4bcc-9a9c-9b9542af1bb3",
+          "width": 1466,
+          "x": 114,
+          "y": 790,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "Nametext",
+          "persistentUuid": "2786de73-a320-4db8-8c30-84f58f9f25d4",
+          "width": 0,
+          "x": 120,
+          "y": 655,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 1212,
+          "keepRatio": true,
+          "layer": "Backgound0",
+          "name": "Background0",
+          "persistentUuid": "fdfcd705-7a81-4cf2-abdc-291688ec9df1",
+          "width": 2034,
+          "x": -36,
+          "y": -63,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0.007481296758104739,
+          "height": 2.798004987531173,
+          "keepRatio": true,
+          "layer": "",
+          "name": "orion",
+          "persistentUuid": "543d42bb-fe4f-48e1-8e41-261870ff0521",
+          "width": 3,
+          "x": 855,
+          "y": 374,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 1080,
+          "layer": "",
+          "name": "Background0",
+          "persistentUuid": "e22cc2bc-b979-43b6-8e52-0a29786c3d88",
+          "width": 2100,
+          "x": -7,
+          "y": 2,
+          "zOrder": 16,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 7
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "namebox",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "name_box2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 425,
+                            "y": 0
+                          },
+                          {
+                            "x": 425,
+                            "y": 105
+                          },
+                          {
+                            "x": 0,
+                            "y": 105
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Dialoguetext",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 50,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 50,
+            "lineHeight": 0,
+            "color": "255;255;255"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Nametext",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 45,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 45,
+            "lineHeight": 0,
+            "color": "255;255;255"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "transtion_1",
+          "type": "PrimitiveDrawing::Drawer",
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "FlashTransitionPainter",
+              "type": "FlashTransitionPainter::FlashTransitionPainter",
+              "Progress": 0,
+              "Duration": 0,
+              "Type": "",
+              "Direction": "",
+              "MaxOpacity": 255
+            }
+          ],
+          "fillOpacity": 255,
+          "outlineSize": 1,
+          "outlineOpacity": 255,
+          "absoluteCoordinates": false,
+          "clearBetweenFrames": true,
+          "antialiasing": "none",
+          "fillColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "outlineColor": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Background0",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "Z_order",
+              "type": "number",
+              "value": -10
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "map",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Screenshot 2025-10-05 073201.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1885,
+                            "y": 0
+                          },
+                          {
+                            "x": 1885,
+                            "y": 954
+                          },
+                          {
+                            "x": 0,
+                            "y": 954
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "debrisdashboard",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Untitled design.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1885,
+                            "y": 0
+                          },
+                          {
+                            "x": 1885,
+                            "y": 954
+                          },
+                          {
+                            "x": 0,
+                            "y": 954
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "tvkosong",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tv kosong2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1885,
+                            "y": 0
+                          },
+                          {
+                            "x": 1885,
+                            "y": 954
+                          },
+                          {
+                            "x": 0,
+                            "y": 954
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "mesin",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Untitled design (2).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1885,
+                            "y": 0
+                          },
+                          {
+                            "x": 1885,
+                            "y": 954
+                          },
+                          {
+                            "x": 0,
+                            "y": 954
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "docking",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "WhatsApp Image 2025-10-05 at 15.28.53.jpeg",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1885,
+                            "y": 0
+                          },
+                          {
+                            "x": 1885,
+                            "y": 954
+                          },
+                          {
+                            "x": 0,
+                            "y": 954
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "tvpromot",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Untitled design (3)2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1885,
+                            "y": 0
+                          },
+                          {
+                            "x": 1885,
+                            "y": 954
+                          },
+                          {
+                            "x": 0,
+                            "y": 954
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "promotion",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "promotion (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1885,
+                            "y": 0
+                          },
+                          {
+                            "x": 1885,
+                            "y": 954
+                          },
+                          {
+                            "x": 0,
+                            "y": 954
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "recreation",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Untitled design (4).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1885,
+                            "y": 0
+                          },
+                          {
+                            "x": 1885,
+                            "y": 954
+                          },
+                          {
+                            "x": 0,
+                            "y": 954
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "roket",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Spacecraft Over Earth_ Retro Pixel Art2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1885,
+                            "y": 0
+                          },
+                          {
+                            "x": 1885,
+                            "y": 954
+                          },
+                          {
+                            "x": 0,
+                            "y": 954
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "zeta",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "zeta (2).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 160
+                          },
+                          {
+                            "x": 981,
+                            "y": 160
+                          },
+                          {
+                            "x": 981,
+                            "y": 796
+                          },
+                          {
+                            "x": 21,
+                            "y": 796
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Background1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "mesin.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1536,
+                            "y": 0
+                          },
+                          {
+                            "x": 1536,
+                            "y": 1024
+                          },
+                          {
+                            "x": 0,
+                            "y": 1024
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "dialoguebox",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "dialogue_box3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1775,
+                            "y": 0
+                          },
+                          {
+                            "x": 1775,
+                            "y": 345
+                          },
+                          {
+                            "x": 0,
+                            "y": 345
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Orion",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [
+            {
+              "effectType": "Outline",
+              "name": "Effect",
+              "doubleParameters": {
+                "padding": 0,
+                "thickness": 0
+              },
+              "stringParameters": {
+                "color": "0;0;0"
+              },
+              "booleanParameters": {}
+            }
+          ],
+          "behaviors": [
+            {
+              "isFolded": true,
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "orion jumbo (2)3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 310,
+                            "y": 30
+                          },
+                          {
+                            "x": 720,
+                            "y": 30
+                          },
+                          {
+                            "x": 720,
+                            "y": 1000
+                          },
+                          {
+                            "x": 310,
+                            "y": 1000
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "staypackage",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Stay Package (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 13,
+                            "y": 46
+                          },
+                          {
+                            "x": 1028,
+                            "y": 46
+                          },
+                          {
+                            "x": 1028,
+                            "y": 1304
+                          },
+                          {
+                            "x": 13,
+                            "y": 1304
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "3aac50dc4f85f0d0405af021f18f5532428d9b7b62217c2863f999af3ee30454",
+          "name": "Debris",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "Large",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Debris_Large.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 7,
+                            "y": 0
+                          },
+                          {
+                            "x": 7,
+                            "y": 8
+                          },
+                          {
+                            "x": 0,
+                            "y": 8
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Medium",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Debris_Medium.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 7,
+                            "y": 0
+                          },
+                          {
+                            "x": 7,
+                            "y": 8
+                          },
+                          {
+                            "x": 0,
+                            "y": 8
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Small",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Debris_Small.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 7,
+                            "y": 0
+                          },
+                          {
+                            "x": 7,
+                            "y": 8
+                          },
+                          {
+                            "x": 0,
+                            "y": 8
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "net",
+          "type": "Video::VideoObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "opacity": 255,
+            "loop": false,
+            "volume": 100,
+            "videoResource": "WhatsApp Video 2025-10-04 at 19.33.51.mp4"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "rafaelva",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "elva rafael vr (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 27,
+                            "y": 45
+                          },
+                          {
+                            "x": 959,
+                            "y": 45
+                          },
+                          {
+                            "x": 959,
+                            "y": 963
+                          },
+                          {
+                            "x": 27,
+                            "y": 963
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "rafael",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "rafael jumbo (3)2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 320,
+                            "y": 20
+                          },
+                          {
+                            "x": 760,
+                            "y": 20
+                          },
+                          {
+                            "x": 760,
+                            "y": 930
+                          },
+                          {
+                            "x": 320,
+                            "y": 930
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "elva",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "2 (2).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 260,
+                            "y": 97
+                          },
+                          {
+                            "x": 930,
+                            "y": 97
+                          },
+                          {
+                            "x": 930,
+                            "y": 944
+                          },
+                          {
+                            "x": 260,
+                            "y": 944
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
       "objectsFolderStructure": {
-        "folderName": "__ROOT"
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "Background0"
+          },
+          {
+            "objectName": "rafaelva"
+          },
+          {
+            "objectName": "net"
+          },
+          {
+            "objectName": "Debris"
+          },
+          {
+            "objectName": "namebox"
+          },
+          {
+            "objectName": "Dialoguetext"
+          },
+          {
+            "objectName": "Nametext"
+          },
+          {
+            "objectName": "transtion_1"
+          },
+          {
+            "objectName": "zeta"
+          },
+          {
+            "objectName": "Background1"
+          },
+          {
+            "objectName": "dialoguebox"
+          },
+          {
+            "objectName": "Orion"
+          },
+          {
+            "objectName": "staypackage"
+          },
+          {
+            "objectName": "rafael"
+          },
+          {
+            "objectName": "elva"
+          }
+        ]
       },
-      "events": [],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "DialogueTree::LoadDialogueFromJsonFile"
+              },
+              "parameters": [
+                "",
+                "New dialogue tree"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "dialoguebox",
+                "Opacity",
+                "=",
+                "200"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "namebox",
+                "Opacity",
+                "=",
+                "200"
+              ]
+            },
+            {
+              "type": {
+                "value": "DialogueTree::StartDialogueFromBranch"
+              },
+              "parameters": [
+                "\"Begin\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"typewitter\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Background0",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Background0",
+                "-18",
+                "-72",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetWidth"
+              },
+              "parameters": [
+                "Background0",
+                "Resizable",
+                "=",
+                "1280 "
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+              },
+              "parameters": [
+                "Background0",
+                "Resizable",
+                "=",
+                "1214"
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Orion",
+                "1010",
+                "100",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+              },
+              "parameters": [
+                "Orion",
+                "Resizable",
+                "=",
+                "900"
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "zeta",
+                "60",
+                "350",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetWidth"
+              },
+              "parameters": [
+                "zeta",
+                "Resizable",
+                "=",
+                "350"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+              },
+              "parameters": [
+                "zeta",
+                "Resizable",
+                "=",
+                "350"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Background0",
+                "Animation",
+                "=",
+                "\"map\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetWidth"
+              },
+              "parameters": [
+                "Background0",
+                "Resizable",
+                "=",
+                "1821"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+              },
+              "parameters": [
+                "Background0",
+                "Resizable",
+                "=",
+                "1214"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsDialogueLineType"
+              },
+              "parameters": [
+                "\"text\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "Dialoguetext",
+                "Text",
+                "=",
+                "DialogueTree::ClippedLineText()"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CompareTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"typewitter\"",
+                    ">=",
+                    "0.01"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"typewitter\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "DialogueTree::ScrollClippedText"
+                  },
+                  "parameters": []
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "MouseButtonFromTextReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Left\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "DialogueTree::HasClippedTextScrollingCompleted"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "DialogueTree::GoToNextLine"
+                  },
+                  "parameters": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"bg2\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Background0",
+                "Animation",
+                "=",
+                "\"map\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"Zeta\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "Nametext",
+                "Text",
+                "=",
+                "\"Zeta\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"Orion\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "Nametext",
+                "Text",
+                "=",
+                "\"Orion\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::Value"
+              },
+              "parameters": [
+                "Nametext",
+                "Text",
+                "=",
+                "\"Orion\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectColorHSLTween2"
+              },
+              "parameters": [
+                "Orion",
+                "Tween",
+                "\"Lighten\"",
+                "",
+                "",
+                "-1",
+                "90",
+                "\"linear\"",
+                "0.01",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::Value"
+              },
+              "parameters": [
+                "Nametext",
+                "Text",
+                "!=",
+                "\"Orion\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectColorHSLTween2"
+              },
+              "parameters": [
+                "Orion",
+                "Tween",
+                "\"Darken\"",
+                "",
+                "",
+                "-1",
+                "50",
+                "\"linear\"",
+                "0.01",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::Value"
+              },
+              "parameters": [
+                "Nametext",
+                "Text",
+                "=",
+                "\"Zeta\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectColorHSLTween2"
+              },
+              "parameters": [
+                "zeta",
+                "Tween",
+                "\"Lighten\"",
+                "",
+                "",
+                "-1",
+                "90",
+                "\"linear\"",
+                "0.01",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::Value"
+              },
+              "parameters": [
+                "Nametext",
+                "Text",
+                "!=",
+                "\"Zeta\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectColorHSLTween2"
+              },
+              "parameters": [
+                "zeta",
+                "Tween",
+                "\"Darken\"",
+                "",
+                "",
+                "-1",
+                "50",
+                "\"linear\"",
+                "0.01",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Background0",
+                "Animation",
+                "=",
+                "\"debrisdashboard\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetWidth"
+              },
+              "parameters": [
+                "Background0",
+                "Resizable",
+                "=",
+                "2000"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+              },
+              "parameters": [
+                "Background0",
+                "Resizable",
+                "=",
+                "1214"
+              ]
+            },
+            {
+              "type": {
+                "value": "MettreX"
+              },
+              "parameters": [
+                "Background0",
+                "=",
+                "-18"
+              ]
+            },
+            {
+              "type": {
+                "value": "MettreY"
+              },
+              "parameters": [
+                "Background0",
+                "=",
+                "-72"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"bg3\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Background0",
+                "Animation",
+                "=",
+                "\"debrisdashboard\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"popup\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "staypackage",
+                "600",
+                "100",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+              },
+              "parameters": [
+                "staypackage",
+                "Resizable",
+                "=",
+                "670"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetWidth"
+              },
+              "parameters": [
+                "staypackage",
+                "Resizable",
+                "=",
+                "700"
+              ]
+            },
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "staypackage",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"/popup\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "staypackage",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "DialogueTree::GoToNextLine"
+              },
+              "parameters": []
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Background0",
+                "Animation",
+                "=",
+                "\"tvkosong\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetWidth"
+              },
+              "parameters": [
+                "Background0",
+                "Resizable",
+                "=",
+                "1821"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+              },
+              "parameters": [
+                "Background0",
+                "Resizable",
+                "=",
+                "1214"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"bg4\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Background0",
+                "Animation",
+                "=",
+                "\"tvkosong\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "net",
+                "650",
+                "100",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Video::Play"
+              },
+              "parameters": [
+                "net"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"/bg4\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "net",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Background0",
+                "Animation",
+                "=",
+                "\"mesin\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetWidth"
+              },
+              "parameters": [
+                "Background0",
+                "Resizable",
+                "=",
+                "2000"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+              },
+              "parameters": [
+                "Background0",
+                "Resizable",
+                "=",
+                "1433"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"bg5\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Background0",
+                "Animation",
+                "=",
+                "\"mesin\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Background0",
+                "Animation",
+                "=",
+                "\"roket\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetWidth"
+              },
+              "parameters": [
+                "Background0",
+                "Resizable",
+                "=",
+                "1821"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+              },
+              "parameters": [
+                "Background0",
+                "Resizable",
+                "=",
+                "1214"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"bg1\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Background0",
+                "Animation",
+                "=",
+                "\"roket\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Background0",
+                "Animation",
+                "=",
+                "\"docking\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetWidth"
+              },
+              "parameters": [
+                "Background0",
+                "Resizable",
+                "=",
+                "1821"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+              },
+              "parameters": [
+                "Background0",
+                "Resizable",
+                "=",
+                "1214"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"bg6\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Background0",
+                "Animation",
+                "=",
+                "\"docking\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Background0",
+                "Animation",
+                "=",
+                "\"tvpromot\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetWidth"
+              },
+              "parameters": [
+                "Background0",
+                "Resizable",
+                "=",
+                "1821"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+              },
+              "parameters": [
+                "Background0",
+                "Resizable",
+                "=",
+                "1214"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"bg7\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Background0",
+                "Animation",
+                "=",
+                "\"tvpromot\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Background0",
+                "Animation",
+                "=",
+                "\"promotion\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetWidth"
+              },
+              "parameters": [
+                "Background0",
+                "Resizable",
+                "=",
+                "1821"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+              },
+              "parameters": [
+                "Background0",
+                "Resizable",
+                "=",
+                "1214"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"bg8\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Background0",
+                "Animation",
+                "=",
+                "\"promotion\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "rafaelva",
+                "600",
+                "200",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+              },
+              "parameters": [
+                "rafaelva",
+                "Resizable",
+                "=",
+                "800"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "zeta"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "Orion"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"rafaelva\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "Nametext",
+                "Text",
+                "=",
+                "\"Visitor\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"/bg8\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "rafaelva",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Background0",
+                "Animation",
+                "=",
+                "\"recreation\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetWidth"
+              },
+              "parameters": [
+                "Background0",
+                "Resizable",
+                "=",
+                "1821"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+              },
+              "parameters": [
+                "Background0",
+                "Resizable",
+                "=",
+                "1214"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"bg9\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Background0",
+                "Animation",
+                "=",
+                "\"recreation\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "zeta",
+                "60",
+                "350",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetWidth"
+              },
+              "parameters": [
+                "zeta",
+                "Resizable",
+                "=",
+                "350"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+              },
+              "parameters": [
+                "zeta",
+                "Resizable",
+                "=",
+                "350"
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Orion",
+                "1010",
+                "100",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+              },
+              "parameters": [
+                "Orion",
+                "Resizable",
+                "=",
+                "900"
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "elva",
+                "600",
+                "150",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+              },
+              "parameters": [
+                "elva",
+                "Resizable",
+                "=",
+                "800"
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "rafael",
+                "200",
+                "150",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+              },
+              "parameters": [
+                "rafael",
+                "Resizable",
+                "=",
+                "800"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"rafael\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "Nametext",
+                "Text",
+                "=",
+                "\"Visitor 1\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"elva\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "Nametext",
+                "Text",
+                "=",
+                "\"Visitor 2\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::Value"
+              },
+              "parameters": [
+                "Nametext",
+                "Text",
+                "=",
+                "\"Visitor 1\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectColorHSLTween2"
+              },
+              "parameters": [
+                "rafael",
+                "Tween",
+                "\"Lighten\"",
+                "",
+                "",
+                "-1",
+                "90",
+                "\"linear\"",
+                "0.01",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::Value"
+              },
+              "parameters": [
+                "Nametext",
+                "Text",
+                "!=",
+                "\"Visitor 1\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectColorHSLTween2"
+              },
+              "parameters": [
+                "rafael",
+                "Tween",
+                "\"Darken\"",
+                "",
+                "",
+                "-1",
+                "50",
+                "\"linear\"",
+                "0.01",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::Value"
+              },
+              "parameters": [
+                "Nametext",
+                "Text",
+                "=",
+                "\"Visitor 2\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectColorHSLTween2"
+              },
+              "parameters": [
+                "elva",
+                "Tween",
+                "\"Lighten\"",
+                "",
+                "",
+                "-1",
+                "90",
+                "\"linear\"",
+                "0.01",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::Value"
+              },
+              "parameters": [
+                "Nametext",
+                "Text",
+                "!=",
+                "\"Visitor 2\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectColorHSLTween2"
+              },
+              "parameters": [
+                "elva",
+                "Tween",
+                "\"Darken\"",
+                "",
+                "",
+                "-1",
+                "50",
+                "\"linear\"",
+                "0.01",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        }
+      ],
       "layers": [
         {
           "ambientLightColorB": 200,
@@ -7048,9 +10690,99 @@
               }
             }
           ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "UI",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
         }
       ],
-      "behaviorsSharedData": []
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "FlashTransitionPainter",
+          "type": "FlashTransitionPainter::FlashTransitionPainter"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ]
     },
     {
       "b": 209,
@@ -9132,6 +12864,112 @@
           "type": "TextContainerCapability::TextContainerBehavior"
         }
       ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "nitip_32scene",
+      "name": "nitip scene",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.3645833333333333,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [],
+      "objects": [],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT"
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "",
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": []
     }
   ],
   "externalEvents": [],
@@ -10271,12 +14109,27 @@
               "value": "Idle",
               "type": "Choice",
               "label": "State",
-              "extraInformation": [
-                "Idle",
-                "Hovered",
-                "PressedInside",
-                "PressedOutside",
-                "Validated"
+              "choices": [
+                {
+                  "label": "Idle",
+                  "value": "Idle"
+                },
+                {
+                  "label": "Hovered",
+                  "value": "Hovered"
+                },
+                {
+                  "label": "PressedInside",
+                  "value": "PressedInside"
+                },
+                {
+                  "label": "PressedOutside",
+                  "value": "PressedOutside"
+                },
+                {
+                  "label": "Validated",
+                  "value": "Validated"
+                }
               ],
               "hidden": true,
               "name": "State"
@@ -10815,6 +14668,7 @@
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
+              "choices": [],
               "name": "ButtonFSM"
             },
             {
@@ -10824,6 +14678,7 @@
               "extraInformation": [
                 "EffectCapability::EffectBehavior"
               ],
+              "choices": [],
               "name": "Effect"
             },
             {
@@ -11263,6 +15118,7 @@
               "extraInformation": [
                 "AnimatableCapability::AnimatableBehavior"
               ],
+              "choices": [],
               "name": "Animation"
             },
             {
@@ -11272,6 +15128,7 @@
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
+              "choices": [],
               "name": "ButtonFSM"
             },
             {
@@ -12665,6 +16522,7 @@
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
+              "choices": [],
               "name": "ButtonFSM"
             },
             {
@@ -12674,6 +16532,7 @@
               "extraInformation": [
                 "EffectCapability::EffectBehavior"
               ],
+              "choices": [],
               "name": "Effect"
             },
             {
@@ -12718,40 +16577,139 @@
               "type": "Choice",
               "label": "Fade-in easing",
               "group": "Speed",
-              "extraInformation": [
-                "linear",
-                "easeInQuad",
-                "easeOutQuad",
-                "easeInOutQuad",
-                "easeInCubic",
-                "easeOutCubic",
-                "easeInOutCubic",
-                "easeInQuart",
-                "easeOutQuart",
-                "easeInOutQuart",
-                "easeInQuint",
-                "easeOutQuint",
-                "easeInOutQuint",
-                "easeInOutSine",
-                "easeInExpo",
-                "easeOutExpo",
-                "easeInOutExpo",
-                "easeInCirc",
-                "easeOutCirc",
-                "easeInOutCirc",
-                "easeOutBounce",
-                "easeInBack",
-                "easeOutBack",
-                "easeInOutBack",
-                "elastic",
-                "swingFromTo",
-                "swingFrom",
-                "swingTo",
-                "bounce",
-                "bouncePast",
-                "easeFromTo",
-                "easeFrom",
-                "easeTo"
+              "choices": [
+                {
+                  "label": "linear",
+                  "value": "linear"
+                },
+                {
+                  "label": "easeInQuad",
+                  "value": "easeInQuad"
+                },
+                {
+                  "label": "easeOutQuad",
+                  "value": "easeOutQuad"
+                },
+                {
+                  "label": "easeInOutQuad",
+                  "value": "easeInOutQuad"
+                },
+                {
+                  "label": "easeInCubic",
+                  "value": "easeInCubic"
+                },
+                {
+                  "label": "easeOutCubic",
+                  "value": "easeOutCubic"
+                },
+                {
+                  "label": "easeInOutCubic",
+                  "value": "easeInOutCubic"
+                },
+                {
+                  "label": "easeInQuart",
+                  "value": "easeInQuart"
+                },
+                {
+                  "label": "easeOutQuart",
+                  "value": "easeOutQuart"
+                },
+                {
+                  "label": "easeInOutQuart",
+                  "value": "easeInOutQuart"
+                },
+                {
+                  "label": "easeInQuint",
+                  "value": "easeInQuint"
+                },
+                {
+                  "label": "easeOutQuint",
+                  "value": "easeOutQuint"
+                },
+                {
+                  "label": "easeInOutQuint",
+                  "value": "easeInOutQuint"
+                },
+                {
+                  "label": "easeInOutSine",
+                  "value": "easeInOutSine"
+                },
+                {
+                  "label": "easeInExpo",
+                  "value": "easeInExpo"
+                },
+                {
+                  "label": "easeOutExpo",
+                  "value": "easeOutExpo"
+                },
+                {
+                  "label": "easeInOutExpo",
+                  "value": "easeInOutExpo"
+                },
+                {
+                  "label": "easeInCirc",
+                  "value": "easeInCirc"
+                },
+                {
+                  "label": "easeOutCirc",
+                  "value": "easeOutCirc"
+                },
+                {
+                  "label": "easeInOutCirc",
+                  "value": "easeInOutCirc"
+                },
+                {
+                  "label": "easeOutBounce",
+                  "value": "easeOutBounce"
+                },
+                {
+                  "label": "easeInBack",
+                  "value": "easeInBack"
+                },
+                {
+                  "label": "easeOutBack",
+                  "value": "easeOutBack"
+                },
+                {
+                  "label": "easeInOutBack",
+                  "value": "easeInOutBack"
+                },
+                {
+                  "label": "elastic",
+                  "value": "elastic"
+                },
+                {
+                  "label": "swingFromTo",
+                  "value": "swingFromTo"
+                },
+                {
+                  "label": "swingFrom",
+                  "value": "swingFrom"
+                },
+                {
+                  "label": "swingTo",
+                  "value": "swingTo"
+                },
+                {
+                  "label": "bounce",
+                  "value": "bounce"
+                },
+                {
+                  "label": "bouncePast",
+                  "value": "bouncePast"
+                },
+                {
+                  "label": "easeFromTo",
+                  "value": "easeFromTo"
+                },
+                {
+                  "label": "easeFrom",
+                  "value": "easeFrom"
+                },
+                {
+                  "label": "easeTo",
+                  "value": "easeTo"
+                }
               ],
               "name": "FadeInEasing"
             },
@@ -12760,40 +16718,139 @@
               "type": "Choice",
               "label": "Fade-out easing",
               "group": "Speed",
-              "extraInformation": [
-                "linear",
-                "easeInQuad",
-                "easeOutQuad",
-                "easeInOutQuad",
-                "easeInCubic",
-                "easeOutCubic",
-                "easeInOutCubic",
-                "easeInQuart",
-                "easeOutQuart",
-                "easeInOutQuart",
-                "easeInQuint",
-                "easeOutQuint",
-                "easeInOutQuint",
-                "easeInOutSine",
-                "easeInExpo",
-                "easeOutExpo",
-                "easeInOutExpo",
-                "easeInCirc",
-                "easeOutCirc",
-                "easeInOutCirc",
-                "easeOutBounce",
-                "easeInBack",
-                "easeOutBack",
-                "easeInOutBack",
-                "elastic",
-                "swingFromTo",
-                "swingFrom",
-                "swingTo",
-                "bounce",
-                "bouncePast",
-                "easeFromTo",
-                "easeFrom",
-                "easeTo"
+              "choices": [
+                {
+                  "label": "linear",
+                  "value": "linear"
+                },
+                {
+                  "label": "easeInQuad",
+                  "value": "easeInQuad"
+                },
+                {
+                  "label": "easeOutQuad",
+                  "value": "easeOutQuad"
+                },
+                {
+                  "label": "easeInOutQuad",
+                  "value": "easeInOutQuad"
+                },
+                {
+                  "label": "easeInCubic",
+                  "value": "easeInCubic"
+                },
+                {
+                  "label": "easeOutCubic",
+                  "value": "easeOutCubic"
+                },
+                {
+                  "label": "easeInOutCubic",
+                  "value": "easeInOutCubic"
+                },
+                {
+                  "label": "easeInQuart",
+                  "value": "easeInQuart"
+                },
+                {
+                  "label": "easeOutQuart",
+                  "value": "easeOutQuart"
+                },
+                {
+                  "label": "easeInOutQuart",
+                  "value": "easeInOutQuart"
+                },
+                {
+                  "label": "easeInQuint",
+                  "value": "easeInQuint"
+                },
+                {
+                  "label": "easeOutQuint",
+                  "value": "easeOutQuint"
+                },
+                {
+                  "label": "easeInOutQuint",
+                  "value": "easeInOutQuint"
+                },
+                {
+                  "label": "easeInOutSine",
+                  "value": "easeInOutSine"
+                },
+                {
+                  "label": "easeInExpo",
+                  "value": "easeInExpo"
+                },
+                {
+                  "label": "easeOutExpo",
+                  "value": "easeOutExpo"
+                },
+                {
+                  "label": "easeInOutExpo",
+                  "value": "easeInOutExpo"
+                },
+                {
+                  "label": "easeInCirc",
+                  "value": "easeInCirc"
+                },
+                {
+                  "label": "easeOutCirc",
+                  "value": "easeOutCirc"
+                },
+                {
+                  "label": "easeInOutCirc",
+                  "value": "easeInOutCirc"
+                },
+                {
+                  "label": "easeOutBounce",
+                  "value": "easeOutBounce"
+                },
+                {
+                  "label": "easeInBack",
+                  "value": "easeInBack"
+                },
+                {
+                  "label": "easeOutBack",
+                  "value": "easeOutBack"
+                },
+                {
+                  "label": "easeInOutBack",
+                  "value": "easeInOutBack"
+                },
+                {
+                  "label": "elastic",
+                  "value": "elastic"
+                },
+                {
+                  "label": "swingFromTo",
+                  "value": "swingFromTo"
+                },
+                {
+                  "label": "swingFrom",
+                  "value": "swingFrom"
+                },
+                {
+                  "label": "swingTo",
+                  "value": "swingTo"
+                },
+                {
+                  "label": "bounce",
+                  "value": "bounce"
+                },
+                {
+                  "label": "bouncePast",
+                  "value": "bouncePast"
+                },
+                {
+                  "label": "easeFromTo",
+                  "value": "easeFromTo"
+                },
+                {
+                  "label": "easeFrom",
+                  "value": "easeFrom"
+                },
+                {
+                  "label": "easeTo",
+                  "value": "easeTo"
+                }
               ],
               "name": "FadeOutEasing"
             },
@@ -12817,10 +16874,19 @@
               "value": "Idle",
               "type": "Choice",
               "label": "",
-              "extraInformation": [
-                "Idle",
-                "Focused",
-                "Pressed"
+              "choices": [
+                {
+                  "label": "Idle",
+                  "value": "Idle"
+                },
+                {
+                  "label": "Focused",
+                  "value": "Focused"
+                },
+                {
+                  "label": "Pressed",
+                  "value": "Pressed"
+                }
               ],
               "hidden": true,
               "name": "PreviousState"
@@ -12850,10 +16916,19 @@
               "value": "NoTween",
               "type": "Choice",
               "label": "",
-              "extraInformation": [
-                "NoTween",
-                "FadeIn",
-                "FadeOut"
+              "choices": [
+                {
+                  "label": "NoTween",
+                  "value": "NoTween"
+                },
+                {
+                  "label": "FadeIn",
+                  "value": "FadeIn"
+                },
+                {
+                  "label": "FadeOut",
+                  "value": "FadeOut"
+                }
               ],
               "hidden": true,
               "name": "TweenState"
@@ -13808,6 +17883,7 @@
               "extraInformation": [
                 "ScalableCapability::ScalableBehavior"
               ],
+              "choices": [],
               "name": "Scale"
             },
             {
@@ -13817,6 +17893,7 @@
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
+              "choices": [],
               "name": "ButtonFSM"
             },
             {
@@ -13826,6 +17903,7 @@
               "extraInformation": [
                 "Tween::TweenBehavior"
               ],
+              "choices": [],
               "name": "Tween"
             },
             {
@@ -13874,40 +17952,139 @@
               "type": "Choice",
               "label": "Fade-in easing",
               "group": "Speed",
-              "extraInformation": [
-                "linear",
-                "easeInQuad",
-                "easeOutQuad",
-                "easeInOutQuad",
-                "easeInCubic",
-                "easeOutCubic",
-                "easeInOutCubic",
-                "easeInQuart",
-                "easeOutQuart",
-                "easeInOutQuart",
-                "easeInQuint",
-                "easeOutQuint",
-                "easeInOutQuint",
-                "easeInOutSine",
-                "easeInExpo",
-                "easeOutExpo",
-                "easeInOutExpo",
-                "easeInCirc",
-                "easeOutCirc",
-                "easeInOutCirc",
-                "easeOutBounce",
-                "easeInBack",
-                "easeOutBack",
-                "easeInOutBack",
-                "elastic",
-                "swingFromTo",
-                "swingFrom",
-                "swingTo",
-                "bounce",
-                "bouncePast",
-                "easeFromTo",
-                "easeFrom",
-                "easeTo"
+              "choices": [
+                {
+                  "label": "linear",
+                  "value": "linear"
+                },
+                {
+                  "label": "easeInQuad",
+                  "value": "easeInQuad"
+                },
+                {
+                  "label": "easeOutQuad",
+                  "value": "easeOutQuad"
+                },
+                {
+                  "label": "easeInOutQuad",
+                  "value": "easeInOutQuad"
+                },
+                {
+                  "label": "easeInCubic",
+                  "value": "easeInCubic"
+                },
+                {
+                  "label": "easeOutCubic",
+                  "value": "easeOutCubic"
+                },
+                {
+                  "label": "easeInOutCubic",
+                  "value": "easeInOutCubic"
+                },
+                {
+                  "label": "easeInQuart",
+                  "value": "easeInQuart"
+                },
+                {
+                  "label": "easeOutQuart",
+                  "value": "easeOutQuart"
+                },
+                {
+                  "label": "easeInOutQuart",
+                  "value": "easeInOutQuart"
+                },
+                {
+                  "label": "easeInQuint",
+                  "value": "easeInQuint"
+                },
+                {
+                  "label": "easeOutQuint",
+                  "value": "easeOutQuint"
+                },
+                {
+                  "label": "easeInOutQuint",
+                  "value": "easeInOutQuint"
+                },
+                {
+                  "label": "easeInOutSine",
+                  "value": "easeInOutSine"
+                },
+                {
+                  "label": "easeInExpo",
+                  "value": "easeInExpo"
+                },
+                {
+                  "label": "easeOutExpo",
+                  "value": "easeOutExpo"
+                },
+                {
+                  "label": "easeInOutExpo",
+                  "value": "easeInOutExpo"
+                },
+                {
+                  "label": "easeInCirc",
+                  "value": "easeInCirc"
+                },
+                {
+                  "label": "easeOutCirc",
+                  "value": "easeOutCirc"
+                },
+                {
+                  "label": "easeInOutCirc",
+                  "value": "easeInOutCirc"
+                },
+                {
+                  "label": "easeOutBounce",
+                  "value": "easeOutBounce"
+                },
+                {
+                  "label": "easeInBack",
+                  "value": "easeInBack"
+                },
+                {
+                  "label": "easeOutBack",
+                  "value": "easeOutBack"
+                },
+                {
+                  "label": "easeInOutBack",
+                  "value": "easeInOutBack"
+                },
+                {
+                  "label": "elastic",
+                  "value": "elastic"
+                },
+                {
+                  "label": "swingFromTo",
+                  "value": "swingFromTo"
+                },
+                {
+                  "label": "swingFrom",
+                  "value": "swingFrom"
+                },
+                {
+                  "label": "swingTo",
+                  "value": "swingTo"
+                },
+                {
+                  "label": "bounce",
+                  "value": "bounce"
+                },
+                {
+                  "label": "bouncePast",
+                  "value": "bouncePast"
+                },
+                {
+                  "label": "easeFromTo",
+                  "value": "easeFromTo"
+                },
+                {
+                  "label": "easeFrom",
+                  "value": "easeFrom"
+                },
+                {
+                  "label": "easeTo",
+                  "value": "easeTo"
+                }
               ],
               "name": "FadeInEasing"
             },
@@ -13916,40 +18093,139 @@
               "type": "Choice",
               "label": "Fade-out easing",
               "group": "Speed",
-              "extraInformation": [
-                "linear",
-                "easeInQuad",
-                "easeOutQuad",
-                "easeInOutQuad",
-                "easeInCubic",
-                "easeOutCubic",
-                "easeInOutCubic",
-                "easeInQuart",
-                "easeOutQuart",
-                "easeInOutQuart",
-                "easeInQuint",
-                "easeOutQuint",
-                "easeInOutQuint",
-                "easeInOutSine",
-                "easeInExpo",
-                "easeOutExpo",
-                "easeInOutExpo",
-                "easeInCirc",
-                "easeOutCirc",
-                "easeInOutCirc",
-                "easeOutBounce",
-                "easeInBack",
-                "easeOutBack",
-                "easeInOutBack",
-                "elastic",
-                "swingFromTo",
-                "swingFrom",
-                "swingTo",
-                "bounce",
-                "bouncePast",
-                "easeFromTo",
-                "easeFrom",
-                "easeTo"
+              "choices": [
+                {
+                  "label": "linear",
+                  "value": "linear"
+                },
+                {
+                  "label": "easeInQuad",
+                  "value": "easeInQuad"
+                },
+                {
+                  "label": "easeOutQuad",
+                  "value": "easeOutQuad"
+                },
+                {
+                  "label": "easeInOutQuad",
+                  "value": "easeInOutQuad"
+                },
+                {
+                  "label": "easeInCubic",
+                  "value": "easeInCubic"
+                },
+                {
+                  "label": "easeOutCubic",
+                  "value": "easeOutCubic"
+                },
+                {
+                  "label": "easeInOutCubic",
+                  "value": "easeInOutCubic"
+                },
+                {
+                  "label": "easeInQuart",
+                  "value": "easeInQuart"
+                },
+                {
+                  "label": "easeOutQuart",
+                  "value": "easeOutQuart"
+                },
+                {
+                  "label": "easeInOutQuart",
+                  "value": "easeInOutQuart"
+                },
+                {
+                  "label": "easeInQuint",
+                  "value": "easeInQuint"
+                },
+                {
+                  "label": "easeOutQuint",
+                  "value": "easeOutQuint"
+                },
+                {
+                  "label": "easeInOutQuint",
+                  "value": "easeInOutQuint"
+                },
+                {
+                  "label": "easeInOutSine",
+                  "value": "easeInOutSine"
+                },
+                {
+                  "label": "easeInExpo",
+                  "value": "easeInExpo"
+                },
+                {
+                  "label": "easeOutExpo",
+                  "value": "easeOutExpo"
+                },
+                {
+                  "label": "easeInOutExpo",
+                  "value": "easeInOutExpo"
+                },
+                {
+                  "label": "easeInCirc",
+                  "value": "easeInCirc"
+                },
+                {
+                  "label": "easeOutCirc",
+                  "value": "easeOutCirc"
+                },
+                {
+                  "label": "easeInOutCirc",
+                  "value": "easeInOutCirc"
+                },
+                {
+                  "label": "easeOutBounce",
+                  "value": "easeOutBounce"
+                },
+                {
+                  "label": "easeInBack",
+                  "value": "easeInBack"
+                },
+                {
+                  "label": "easeOutBack",
+                  "value": "easeOutBack"
+                },
+                {
+                  "label": "easeInOutBack",
+                  "value": "easeInOutBack"
+                },
+                {
+                  "label": "elastic",
+                  "value": "elastic"
+                },
+                {
+                  "label": "swingFromTo",
+                  "value": "swingFromTo"
+                },
+                {
+                  "label": "swingFrom",
+                  "value": "swingFrom"
+                },
+                {
+                  "label": "swingTo",
+                  "value": "swingTo"
+                },
+                {
+                  "label": "bounce",
+                  "value": "bounce"
+                },
+                {
+                  "label": "bouncePast",
+                  "value": "bouncePast"
+                },
+                {
+                  "label": "easeFromTo",
+                  "value": "easeFromTo"
+                },
+                {
+                  "label": "easeFrom",
+                  "value": "easeFrom"
+                },
+                {
+                  "label": "easeTo",
+                  "value": "easeTo"
+                }
               ],
               "name": "FadeOutEasing"
             },
@@ -13957,10 +18233,19 @@
               "value": "Idle",
               "type": "Choice",
               "label": "",
-              "extraInformation": [
-                "Idle",
-                "Focused",
-                "Pressed"
+              "choices": [
+                {
+                  "label": "Idle",
+                  "value": "Idle"
+                },
+                {
+                  "label": "Focused",
+                  "value": "Focused"
+                },
+                {
+                  "label": "Pressed",
+                  "value": "Pressed"
+                }
               ],
               "hidden": true,
               "name": "PreviousState"
@@ -14922,6 +19207,7 @@
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
+              "choices": [],
               "name": "ButtonFSM"
             },
             {
@@ -14931,6 +19217,7 @@
               "extraInformation": [
                 "Tween::TweenBehavior"
               ],
+              "choices": [],
               "name": "Tween"
             },
             {
@@ -14976,40 +19263,139 @@
               "type": "Choice",
               "label": "Fade-in easing",
               "group": "Speed",
-              "extraInformation": [
-                "linear",
-                "easeInQuad",
-                "easeOutQuad",
-                "easeInOutQuad",
-                "easeInCubic",
-                "easeOutCubic",
-                "easeInOutCubic",
-                "easeInQuart",
-                "easeOutQuart",
-                "easeInOutQuart",
-                "easeInQuint",
-                "easeOutQuint",
-                "easeInOutQuint",
-                "easeInOutSine",
-                "easeInExpo",
-                "easeOutExpo",
-                "easeInOutExpo",
-                "easeInCirc",
-                "easeOutCirc",
-                "easeInOutCirc",
-                "easeOutBounce",
-                "easeInBack",
-                "easeOutBack",
-                "easeInOutBack",
-                "elastic",
-                "swingFromTo",
-                "swingFrom",
-                "swingTo",
-                "bounce",
-                "bouncePast",
-                "easeFromTo",
-                "easeFrom",
-                "easeTo"
+              "choices": [
+                {
+                  "label": "linear",
+                  "value": "linear"
+                },
+                {
+                  "label": "easeInQuad",
+                  "value": "easeInQuad"
+                },
+                {
+                  "label": "easeOutQuad",
+                  "value": "easeOutQuad"
+                },
+                {
+                  "label": "easeInOutQuad",
+                  "value": "easeInOutQuad"
+                },
+                {
+                  "label": "easeInCubic",
+                  "value": "easeInCubic"
+                },
+                {
+                  "label": "easeOutCubic",
+                  "value": "easeOutCubic"
+                },
+                {
+                  "label": "easeInOutCubic",
+                  "value": "easeInOutCubic"
+                },
+                {
+                  "label": "easeInQuart",
+                  "value": "easeInQuart"
+                },
+                {
+                  "label": "easeOutQuart",
+                  "value": "easeOutQuart"
+                },
+                {
+                  "label": "easeInOutQuart",
+                  "value": "easeInOutQuart"
+                },
+                {
+                  "label": "easeInQuint",
+                  "value": "easeInQuint"
+                },
+                {
+                  "label": "easeOutQuint",
+                  "value": "easeOutQuint"
+                },
+                {
+                  "label": "easeInOutQuint",
+                  "value": "easeInOutQuint"
+                },
+                {
+                  "label": "easeInOutSine",
+                  "value": "easeInOutSine"
+                },
+                {
+                  "label": "easeInExpo",
+                  "value": "easeInExpo"
+                },
+                {
+                  "label": "easeOutExpo",
+                  "value": "easeOutExpo"
+                },
+                {
+                  "label": "easeInOutExpo",
+                  "value": "easeInOutExpo"
+                },
+                {
+                  "label": "easeInCirc",
+                  "value": "easeInCirc"
+                },
+                {
+                  "label": "easeOutCirc",
+                  "value": "easeOutCirc"
+                },
+                {
+                  "label": "easeInOutCirc",
+                  "value": "easeInOutCirc"
+                },
+                {
+                  "label": "easeOutBounce",
+                  "value": "easeOutBounce"
+                },
+                {
+                  "label": "easeInBack",
+                  "value": "easeInBack"
+                },
+                {
+                  "label": "easeOutBack",
+                  "value": "easeOutBack"
+                },
+                {
+                  "label": "easeInOutBack",
+                  "value": "easeInOutBack"
+                },
+                {
+                  "label": "elastic",
+                  "value": "elastic"
+                },
+                {
+                  "label": "swingFromTo",
+                  "value": "swingFromTo"
+                },
+                {
+                  "label": "swingFrom",
+                  "value": "swingFrom"
+                },
+                {
+                  "label": "swingTo",
+                  "value": "swingTo"
+                },
+                {
+                  "label": "bounce",
+                  "value": "bounce"
+                },
+                {
+                  "label": "bouncePast",
+                  "value": "bouncePast"
+                },
+                {
+                  "label": "easeFromTo",
+                  "value": "easeFromTo"
+                },
+                {
+                  "label": "easeFrom",
+                  "value": "easeFrom"
+                },
+                {
+                  "label": "easeTo",
+                  "value": "easeTo"
+                }
               ],
               "name": "FadeInEasing"
             },
@@ -15018,40 +19404,139 @@
               "type": "Choice",
               "label": "Fade-out easing",
               "group": "Speed",
-              "extraInformation": [
-                "linear",
-                "easeInQuad",
-                "easeOutQuad",
-                "easeInOutQuad",
-                "easeInCubic",
-                "easeOutCubic",
-                "easeInOutCubic",
-                "easeInQuart",
-                "easeOutQuart",
-                "easeInOutQuart",
-                "easeInQuint",
-                "easeOutQuint",
-                "easeInOutQuint",
-                "easeInOutSine",
-                "easeInExpo",
-                "easeOutExpo",
-                "easeInOutExpo",
-                "easeInCirc",
-                "easeOutCirc",
-                "easeInOutCirc",
-                "easeOutBounce",
-                "easeInBack",
-                "easeOutBack",
-                "easeInOutBack",
-                "elastic",
-                "swingFromTo",
-                "swingFrom",
-                "swingTo",
-                "bounce",
-                "bouncePast",
-                "easeFromTo",
-                "easeFrom",
-                "easeTo"
+              "choices": [
+                {
+                  "label": "linear",
+                  "value": "linear"
+                },
+                {
+                  "label": "easeInQuad",
+                  "value": "easeInQuad"
+                },
+                {
+                  "label": "easeOutQuad",
+                  "value": "easeOutQuad"
+                },
+                {
+                  "label": "easeInOutQuad",
+                  "value": "easeInOutQuad"
+                },
+                {
+                  "label": "easeInCubic",
+                  "value": "easeInCubic"
+                },
+                {
+                  "label": "easeOutCubic",
+                  "value": "easeOutCubic"
+                },
+                {
+                  "label": "easeInOutCubic",
+                  "value": "easeInOutCubic"
+                },
+                {
+                  "label": "easeInQuart",
+                  "value": "easeInQuart"
+                },
+                {
+                  "label": "easeOutQuart",
+                  "value": "easeOutQuart"
+                },
+                {
+                  "label": "easeInOutQuart",
+                  "value": "easeInOutQuart"
+                },
+                {
+                  "label": "easeInQuint",
+                  "value": "easeInQuint"
+                },
+                {
+                  "label": "easeOutQuint",
+                  "value": "easeOutQuint"
+                },
+                {
+                  "label": "easeInOutQuint",
+                  "value": "easeInOutQuint"
+                },
+                {
+                  "label": "easeInOutSine",
+                  "value": "easeInOutSine"
+                },
+                {
+                  "label": "easeInExpo",
+                  "value": "easeInExpo"
+                },
+                {
+                  "label": "easeOutExpo",
+                  "value": "easeOutExpo"
+                },
+                {
+                  "label": "easeInOutExpo",
+                  "value": "easeInOutExpo"
+                },
+                {
+                  "label": "easeInCirc",
+                  "value": "easeInCirc"
+                },
+                {
+                  "label": "easeOutCirc",
+                  "value": "easeOutCirc"
+                },
+                {
+                  "label": "easeInOutCirc",
+                  "value": "easeInOutCirc"
+                },
+                {
+                  "label": "easeOutBounce",
+                  "value": "easeOutBounce"
+                },
+                {
+                  "label": "easeInBack",
+                  "value": "easeInBack"
+                },
+                {
+                  "label": "easeOutBack",
+                  "value": "easeOutBack"
+                },
+                {
+                  "label": "easeInOutBack",
+                  "value": "easeInOutBack"
+                },
+                {
+                  "label": "elastic",
+                  "value": "elastic"
+                },
+                {
+                  "label": "swingFromTo",
+                  "value": "swingFromTo"
+                },
+                {
+                  "label": "swingFrom",
+                  "value": "swingFrom"
+                },
+                {
+                  "label": "swingTo",
+                  "value": "swingTo"
+                },
+                {
+                  "label": "bounce",
+                  "value": "bounce"
+                },
+                {
+                  "label": "bouncePast",
+                  "value": "bouncePast"
+                },
+                {
+                  "label": "easeFromTo",
+                  "value": "easeFromTo"
+                },
+                {
+                  "label": "easeFrom",
+                  "value": "easeFrom"
+                },
+                {
+                  "label": "easeTo",
+                  "value": "easeTo"
+                }
               ],
               "name": "FadeOutEasing"
             },
@@ -15059,10 +19544,19 @@
               "value": "Idle",
               "type": "Choice",
               "label": "",
-              "extraInformation": [
-                "Idle",
-                "Focused",
-                "Pressed"
+              "choices": [
+                {
+                  "label": "Idle",
+                  "value": "Idle"
+                },
+                {
+                  "label": "Focused",
+                  "value": "Focused"
+                },
+                {
+                  "label": "Pressed",
+                  "value": "Pressed"
+                }
               ],
               "hidden": true,
               "name": "PreviousState"
